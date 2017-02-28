@@ -1,5 +1,5 @@
 {
-  "name": "benbowler/wp-selectively-disable-plugins",
+  "name": "benbowler/agreable-selectively-disable-plugins",
   "type": "wordpress-plugin",
   "description": "Selectively disable Wordpress plugins based on $_SERVER value or url key. Great for speeding up your tests or api controllers.",
   "license": "MIT",
